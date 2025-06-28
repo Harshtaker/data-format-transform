@@ -1,0 +1,23 @@
+
+[
+  {
+    "timestamp": 1688212800000,
+    "value": 35,
+    "sensor": "beta"
+  },
+  {
+    "timestamp": 1688212800000,
+    "value": 42,
+    "sensor": "alpha"
+  },
+  {
+    "timestamp": 1688213100000,
+    "value": 37,
+    "sensor": "beta"
+  },
+  {
+    "timestamp": 1688213100000,
+    "value": 45,
+    "sensor": "alpha"
+  }
+]
